@@ -1,0 +1,1 @@
+Simple price calculator for use with awesome indie game Schedule I by TVGS. Simply input the suggested price of your deal, and it gives you the optimal price.
